@@ -138,10 +138,10 @@ aside.menu-sidebar.d-none.d-lg-block.clr {
 }
 
 /* 
- * ----------------------------
- * Header Desktop Section
- * ----------------------------
- */
+* ----------------------------
+* Header Desktop Section
+* ----------------------------
+*/
 
 .header-desktop {
   background: #0da8e4;
@@ -318,10 +318,10 @@ input.au-input.au-input-xl {
 }
 
 /* 
- * ----------------------------
- * Left Menu Bar
- * ----------------------------
- */
+* ----------------------------
+* Left Menu Bar
+* ----------------------------
+*/
 
 .menu-sidebar {
   width: 200px;
@@ -392,10 +392,10 @@ input.au-input.au-input-xl {
 }
 
 /* 
- * ----------------------------
- * Header Mobile Section
- * ----------------------------
- */
+* ----------------------------
+* Header Mobile Section
+* ----------------------------
+*/
 
 .header-mobile {
   position: absolute;
@@ -531,14 +531,14 @@ input.au-input.au-input-xl {
   background: #fff;
 }
 .main-content.page-m {
-  padding: 10% 15% !important;
+  padding: 10% 30% 10% 5%;
 }
 
 /* 
- * ----------------------------
- * Products List
- * ----------------------------
- */
+* ----------------------------
+* Products List
+* ----------------------------
+*/
 
 .product-box img {
   width: 150px;
@@ -577,10 +577,10 @@ input.au-input.au-input-xl {
 }
 
 /* 
- * ----------------------------
- * Shopping Cart Checkout
- * ----------------------------
- */
+* ----------------------------
+* Shopping Cart Checkout
+* ----------------------------
+*/
 
 .form-area {
   background: #e5e5e5;
@@ -691,10 +691,10 @@ select {
 }
 
 /* 
- * ----------------------------
- * Shopping Cart Details
- * ----------------------------
- */
+* ----------------------------
+* Shopping Cart Details
+* ----------------------------
+*/
 
 .table {
   margin: 0;
@@ -727,29 +727,32 @@ table.table.table-bordered th {
 }
 
 /* 
- * ----------------------------
- * Product Details
- * ----------------------------
- */
+* ----------------------------
+* Product Details
+* ----------------------------
+*/
 
 .price {
   margin: 15px 0 0;
   font-weight: 800;
   color: #0da8e4;
 }
+
 .detail-section {
   margin-top: 60px;
 }
+
 .detail-img {
   width: 30%;
 }
+
 /**/
 
 /* 
- * ----------------------------
- * Buttons
- * ----------------------------
- */
+* ----------------------------
+* Buttons
+* ----------------------------
+*/
 
 .btn-info {
   color: #fff;
@@ -776,10 +779,10 @@ a.primary-btn:hover {
 }
 
 /* 
- * ----------------------------
- * Footer section
- * ----------------------------
- */
+* ----------------------------
+* Footer section
+* ----------------------------
+*/
 
 footer ul li a {
   color: #fff;
@@ -801,10 +804,10 @@ footer ul li {
 }
 
 /* 
- * ----------------------------
- * Media Queries
- * ----------------------------
- */
+* ----------------------------
+* Media Queries
+* ----------------------------
+*/
 
 @media (max-width: 1600px) {
   .au-input-xl {

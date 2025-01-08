@@ -1,0 +1,3 @@
+::ng-deep .btn {
+  background-color: var(--bs-btn-bg) !important;
+}
